@@ -13,9 +13,25 @@ The goal of this task is to assess:
 
 ---
 
-## Functional Requirements
+## Candidate Instructions
 
-### Core Features
+### How to Submit Your Solution
+
+1. **Fork this repository** to your own GitHub account.
+2. Implement the solution in your forked repository.
+3. Commit your changes with clear and meaningful commit messages.
+4. **Create a Pull Request (PR)** from your fork back into this repository.
+5. In the Pull Request description, include:
+   - Brief explanation of your approach
+   - Any assumptions made
+   - List of implemented bonus features (if any)
+   - Instructions to build and run the application
+
+> ⚠️ **Do not push directly to this repository. Only Pull Requests will be reviewed.**
+
+---
+
+## Functional Requirements
 
 ### 1. Add an Expense
 
@@ -179,17 +195,7 @@ expense-tracker/
 └── README.md
 ```
 
-*(Project structure is flexible; clarity and maintainability are more important than strict layout.)*
-
----
-
-## Expected Deliverables
-
-- Source code in a Git repository
-- `README.md` containing:
-  - Build instructions
-  - Usage examples
-- Clear and meaningful commit history (if applicable)
+*(Project structure is flexible; clarity and maintainability matter more than strict layout.)*
 
 ---
 
